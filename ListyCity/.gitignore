@@ -1,0 +1,24 @@
+# Google Services (Firebase)
+app/google-services.json
+app/google-services.json
+
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+
+# Keystore files
+*.jks
+*.keystore
